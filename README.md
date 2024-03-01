@@ -2,7 +2,7 @@
 # HEY THERE!,👋 I'M NAMAN BANSAL
 
 
-## 🤖 GAME DEVELOPER 🚀
+## 🤖 Data Analysist 🚀
 
 
 
@@ -13,12 +13,12 @@
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Namanbansal06/)
 
 
-## CODE 🧑‍💻| GAME 🤖| PLAY 🚀
+## CODE 🧑‍💻| Analyse 🤖| Predict 🚀
 👩‍💻 I'm currently working on Self Development
 
-🧠 I'm currently learning Game Development
+🧠 I'm currently learning Machine Learning
 
-👯‍♀️ I'm looking to collaborate on Gaming projects.
+👯‍♀️ I'm looking to collaborate on Data science projects.
 
 😄 Pronouns He/Him/Developer
 
